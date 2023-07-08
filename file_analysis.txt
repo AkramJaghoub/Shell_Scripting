@@ -1,0 +1,105 @@
+
+----------- 15 Files found -----------
+
+Owner: kramz
+Total Size: 445 bytes
+----------------------------
+File Name: sub_file2.txt
+File permissions: -rw-rw-r--
+File owner: kramz
+File size(bytes): 192
+Last modification done on the file: 2023-07-05
+
+File Name: sub_file1.txt
+File permissions: -rw-rw-r--
+File owner: kramz
+File size(bytes): 133
+Last modification done on the file: 2023-07-05
+
+File Name: file3.txt
+File permissions: -rw-rw-r--
+File owner: kramz
+File size(bytes): 34
+Last modification done on the file: 2023-07-05
+
+File Name: file2.txt
+File permissions: -rw-rw-r--
+File owner: kramz
+File size(bytes): 23
+Last modification done on the file: 2023-07-05
+
+File Name: file1.txt
+File permissions: -rw-rw-r--
+File owner: kramz
+File size(bytes): 19
+Last modification done on the file: 2023-07-05
+
+File Name: sub_in_sub2.txt
+File permissions: -rw-rw-r--
+File owner: kramz
+File size(bytes): 17
+Last modification done on the file: 2023-07-07
+
+File Name: sub_in_sub2.txt
+File permissions: -rw-rw-r--
+File owner: kramz
+File size(bytes): 14
+Last modification done on the file: 2023-07-07
+
+File Name: example.txt
+File permissions: -rw-rw-r--
+File owner: kramz
+File size(bytes): 7
+Last modification done on the file: 2023-07-06
+
+File Name: sub_in_sub1.txt
+File permissions: -rw-rw-r--
+File owner: kramz
+File size(bytes): 3
+Last modification done on the file: 2023-07-07
+
+File Name: sub_in_sub1.txt
+File permissions: -rw-rw-r--
+File owner: kramz
+File size(bytes): 3
+Last modification done on the file: 2023-07-07
+
+
+Owner: root
+Total Size: 108 bytes
+----------------------------
+File Name: root_file1.txt
+File permissions: -rw-r--r--
+File owner: root
+File size(bytes): 56
+Last modification done on the file: 2023-07-05
+
+File Name: root_file3.txt
+File permissions: -rw-r--r--
+File owner: root
+File size(bytes): 27
+Last modification done on the file: 2023-07-05
+
+File Name: root_file2.txt
+File permissions: -rw-r--r--
+File owner: root
+File size(bytes): 25
+Last modification done on the file: 2023-07-05
+
+
+Owner: nobody
+Total Size: 26 bytes
+----------------------------
+File Name: nobody_file2.txt
+File permissions: -rw-rw-r--
+File owner: nobody
+File size(bytes): 19
+Last modification done on the file: 2023-07-05
+
+File Name: nobody_file1.txt
+File permissions: -rw-rw-r--
+File owner: nobody
+File size(bytes): 7
+Last modification done on the file: 2023-07-05
+
+

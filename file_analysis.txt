@@ -1,8 +1,8 @@
 
------------ 18 Files found -----------
+----------- 15 Files found -----------
 
 Owner: kramz
-Total Size: 537 bytes
+Total Size: 445 bytes
 ----------------------------
 File Name: sub_file2.txt
 File permissions: -rw-rw-r--
@@ -16,22 +16,10 @@ File owner: kramz
 File size(bytes): 133
 Last modification done on the file: 2023-07-05
 
-File Name: image3.img
-File permissions: -rw-rw-r--
-File owner: kramz
-File size(bytes): 46
-Last modification done on the file: 2023-07-05
-
 File Name: file3.txt
 File permissions: -rw-rw-r--
 File owner: kramz
 File size(bytes): 34
-Last modification done on the file: 2023-07-05
-
-File Name: image2.img
-File permissions: -rw-rw-r--
-File owner: kramz
-File size(bytes): 31
 Last modification done on the file: 2023-07-05
 
 File Name: file2.txt
@@ -46,17 +34,11 @@ File owner: kramz
 File size(bytes): 19
 Last modification done on the file: 2023-07-05
 
-File Name: sub_in_sub2.txt
+File Name: sub_in_sub_in_sub2.txt
 File permissions: -rw-rw-r--
 File owner: kramz
 File size(bytes): 17
 Last modification done on the file: 2023-07-07
-
-File Name: image1.img
-File permissions: -rw-rw-r--
-File owner: kramz
-File size(bytes): 15
-Last modification done on the file: 2023-07-05
 
 File Name: sub_in_sub2.txt
 File permissions: -rw-rw-r--
@@ -76,7 +58,7 @@ File owner: kramz
 File size(bytes): 3
 Last modification done on the file: 2023-07-07
 
-File Name: sub_in_sub1.txt
+File Name: sub_in_sub_in_sub1.txt
 File permissions: -rw-rw-r--
 File owner: kramz
 File size(bytes): 3
